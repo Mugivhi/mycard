@@ -1,5 +1,4 @@
 import React,{useState} from 'react';
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet,Image,ImageBackground, Text,View,Modal,Alert,Pressable } from 'react-native';
 
 export default function App() {
